@@ -1,23 +1,10 @@
 <section class="section projects-section">
-<!--
                 <h2 class="section-title"><i class="fa fa-archive"></i>Projects</h2>
                 <div class="intro">
                     <p>You can list your side projects or open source libraries in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.</p>
-                </div><!--//intro--> 
+                </div><!--//intro-->
                 <div class="item">
-                    <span class="project-title"><a href="#hook">Kaggle Competition What's cooking</a></span> - <span class="project-tagline">79.03% Accuracy(on top 15% in the Kaggle competition, best result so far was 82.03%)
-		    <ul>
-                    <li>
-                        Multiclass classification (scikit-learn) enhanced by word embeddings (word2vec)     
-                    </li>
-                    <li>
-                        Hierarchical clustering of cuisines with Ward linkage
-                    </li>
-		    <li>
-		        Dimensionality reduction using PCA: project all cuisines onto two dimensions
-                    </li>
-                    </ul>
-		    </span>
+                    <span class="project-title"><a href="#hook">Velocity</a></span> - <span class="project-tagline">A responsive website template designed to help startups promote, market and sell their products.</span>
                     
                 </div><!--//item-->
                 <div class="item">

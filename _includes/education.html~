@@ -1,8 +1,23 @@
  <div class="education-container container-block">
 <h2 class="container-block-title">Education</h2>
 <div class="item">
-    <h4 class="degree">MSc in Computer Science</h4>
+    <h4 class="degree">M.S. in Computer Science(AI Group)  GPA 4.0</h4>
     <h5 class="meta">Oregon State University</h5>
-    <div class="time">2015 - 2017</div>
+    <div class="time">Sep.2015 - June 2017</div>
+<div class="item">
+    <h4 class="degree">Non-Degree Student in Computer Science</h4>
+    <h5 class="meta">City Univrsity of New York, Queens College</h5>
+    <div class="time">Sep.2014 - July 2015</div>
+</div><!--//item-->
+<div class="item">
+    <h4 class="degree">M.S. in Molecular Microbioloty and Immunology</h4>
+    <h5 class="meta">University of Southern California</h5>
+    <div class="time">Sep.2010 - May 2012</div>
+</div><!--//item-->
+<div class="item">
+    <h4 class="degree">B.S. in Clinial Medicine</h4>
+    <h5 class="meta">Qingdao University, Medical College</h5>
+    <div class="time">Sep.2005 - July 2010</div>
+</div><!--//item-->
 </div><!--//item-->
 </div><!--//education-container-->
