@@ -13,17 +13,17 @@ baseurl: '/online-cv' #change it according to your repository name
 
 
 #Profile information
-name: Dapeng Li
-tagline: Software Engineer
+name: Alan Doe
+tagline: Full Stack Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: amyleedapeng@gmail.com
+email: hello@webjeda.com
 phone: 012 345 6789
 website: blog.webjeda.com #do not add http://
-linkedin: dapeng-li-3727a9132
-github: dapengliamy
-
+linkedin: alandoe
+github: sharu725
+twitter: '@webjeda'
 
 
 # Tracker
